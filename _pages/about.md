@@ -56,14 +56,11 @@ For more details, please refer to my [CV](../assets/CV.pdf). (last updated: Dec 
 Shuting Xu<sup>1</sup>, Kaixuan Cui<sup>1</sup>, **Kaiqi Long**, Jia Li, Ni Fan, Wai-Ching Lam, Xiaoling Liang, Weiping Wang* &nbsp; *Advanced Science*, 2023, 2301985 &nbsp;*(Highlighted on cover)*
 </div>
 </div>
-
 <br>
 - [Facile Preparation and Photoactivation of Prodrug-dye Nanoassemblies](https://github.com) Yichi Zhang, **Kaiqi Long**, Weiping Wang*&nbsp; *Journal of Visualized Experiments*, 2023, e64677.
-
 <div class='paper-box'></div>
 <br>
 - [Facile Preparation and Photoactivation of Prodrug-dye Nanoassemblies](https://github.com) Yichi Zhang, **Kaiqi Long**, Weiping Wang*&nbsp; *Journal of Visualized Experiments*, 2023, e64677.
-
 <div class='paper-box'></div>
 <p></p>
 - [Facile Preparation and Photoactivation of Prodrug-dye Nanoassemblies](https://github.com) Yichi Zhang, **Kaiqi Long**, Weiping Wang*&nbsp; *Journal of Visualized Experiments*, 2023, e64677.
