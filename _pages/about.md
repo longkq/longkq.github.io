@@ -76,8 +76,14 @@ Shuting Xu<sup>1</sup>, Kaixuan Cui<sup>1</sup>, **Kaiqi Long**, Jia Li, Ni Fan,
 
 
 # 🏅 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.11* &nbsp;  Dissertation Year Fellowship, The University of Hong Kong
+- *2022.03* &nbsp;  Gold Medal, 2022 Inventions Geneva Evaluation Days (Project: Light-responsive Ocular Drug Delivery)
+- *2018-2022* &nbsp;  Hong Kong PhD Fellowship Scheme
+- *2017.09* &nbsp; First-class Scholarship, SYSU
+- *2016.09* &nbsp; Enterprise Scholarship of Amitabha
+- *2016.09* &nbsp; First-class Scholarship, SYSU
+- *2015.09* &nbsp; China National Scholarship
+- *2015.09* &nbsp; First-class Scholarship, SYSU
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
