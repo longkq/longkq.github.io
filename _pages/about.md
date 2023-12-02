@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 💻 Brief Bio
 Hi! This is the personal page of Kaiqi Long. I was born in Foshan, Guangdong, PR China in 1996. I obtained PhD degree from Department of Pharmacology and Pharmacy, The University of Hong Kong in 2023 under the supervision of [Prof. Weiping Wang](https://wanglab.org). 
 
 My research interest includes ocular drug delivery, molecular self-assembly, and photochemistry.
@@ -58,10 +59,9 @@ Advanced Science, 2023, 2301985
 </div>
 </div>
 
-[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-</div>
-</div>
+
 
 
 # 🎖 Honors and Awards
