@@ -39,7 +39,7 @@ For more details, please refer to my [CV](../assets/CV.pdf). (last updated: Dec 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/NC2023-500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Near-infrared Light-Triggered Prodrug Photolysis by One-step Energy Transfer]
+[Near-infrared Light-Triggered Prodrug Photolysis by One-step Energy Transfer]()
 
 **Kaiqi Long**, Wen Lv, Zihan Wang, Yaming Zhang, Kang Chen, Yichi Zhang, Weiping Wang*
 Nature Communications, 2023, Accepted
@@ -47,10 +47,10 @@ Nature Communications, 2023, Accepted
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/NC2023-500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='advs6354-fig-0001-m.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ Red light-triggered anti-angiogenic and photodynamic combination therapy of age-related macular degeneration](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202301985)
+[Red light-triggered anti-angiogenic and photodynamic combination therapy of age-related macular degeneration](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202301985)
 
 Shuting Xu, Kaixuan Cui, **Kaiqi Long**, Jia Li, Ni Fan, Wai-Ching Lam, Xiaoling Liang, Weiping WangWen Lv, Zihan Wang, Yaming Zhang, Kang Chen, Yichi Zhang, Weiping Wang*
 Advanced Science, 2023, 2301985
