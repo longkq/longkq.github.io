@@ -83,9 +83,8 @@ Shuting Xu<sup>1</sup>, Kaixuan Cui<sup>1</sup>, **Kaiqi Long**, Jia Li, Ni Fan,
 - *2016.09* &nbsp; Enterprise Scholarship of Amitabha
 - *2016.09* &nbsp; First-class Scholarship, SYSU
 - *2015.09* &nbsp; China National Scholarship
-- *2015.09* &nbsp; First-class Scholarship, SYSUChinese Chemistry Olympiad
-- *2014.02* &nbsp; Second Price, 27th Chinese Chemistry Olympiad (CChO)
-- *2014.01* &nbsp; Second Price, China National Biology Olympiad (CNBO)
+- *2015.09* &nbsp; First-class Scholarship, SYSU
+- *2014.02* &nbsp; Second Price, The 27th Chinese Chemistry Olympiad (CChO)
 
 # 📖 Educations
 - *2024.02 - present*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
