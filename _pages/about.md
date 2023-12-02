@@ -24,7 +24,7 @@ My research interest includes photochemistry，ocular drug delivery, molecular s
 
 I will join Brigham and Women's Hospital, Harvard Medical School as postdoctoral fellow in Feb 2024. I will work on nucleic acid delivery there with Prof. Jinjun Shi.
 
-If you are seeking any form of academic cooperation, please feel free to email me at [longkq@hku.hk](longkq@hku.hk).
+If you are seeking any form of academic cooperation with me, please feel free to contact me at [longkq@hku.hk](longkq@hku.hk).
 
 For more details, please refer to my [CV](../assets/CV.pdf). (last updated: Dec 2, 2023)
 
