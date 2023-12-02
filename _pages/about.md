@@ -17,22 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 💻 Brief Bio
-Hi! This is the personal page of Kaiqi Long. I was born in Foshan, Guangdong, PR China in 1996. I obtained PhD degree from Department of Pharmacology and Pharmacy, The University of Hong Kong in 2023 under the supervision of [Prof. Weiping Wang](https://wanglab.org). 
+# 😃 Brief Bio
+Hi! Welcome to the personal page of Kaiqi Long. I was born in Foshan, Guangdong, PR China in 1996. I obtained PhD degree from Department of Pharmacology and Pharmacy, The University of Hong Kong in 2023 under the supervision of [Prof. Weiping Wang](https://wanglab.org). 
 
 My research interest includes ocular drug delivery, molecular self-assembly, and photochemistry.
 
-<a href='https://scholar.google.com/citations?user=IfMBx54AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-
 I will join Brigham and Women's Hospital, Harvard Medical School as postdoctoral fellow in Feb 2024. I will work on nucleic acid delivery there with Prof. Jinjun Shi.
 
- If you are seeking any form of academic cooperation, please feel free to email me at [longkq@hku.hk](longkq@hku.hk).
+If you are seeking any form of academic cooperation, please feel free to email me at [longkq@hku.hk](longkq@hku.hk).
 
 For more details, please refer to my [CV](../assets/CV.pdf). (last updated: Dec 2, 2023)
 
 
 # 🔥 News
-- *2023.12*: &nbsp; 🎉 Kaiqi finished his PhD study in HKU. 
+- *2023.12*: &nbsp;  Kaiqi finished his PhD study in HKU. 
 
 
 # 📝 Publications 
