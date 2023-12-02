@@ -30,7 +30,7 @@ For more details, please refer to my [CV](../assets/CV.pdf). (last updated: Dec 
 
 
 # 📻 News
-- *2023.12*: &nbsp;  Kaiqi finished his PhD study in HKU. 
+- *2023.12*: &nbsp;&nbsp;  Kaiqi finished his PhD study in HKU. 
 
 
 # 📝 Publications 
@@ -57,7 +57,7 @@ Advanced Science, 2023, 2301985
 </div>
 </div>
 
--[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 
 
