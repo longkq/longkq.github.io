@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😃 Brief Bio
-Hi! Welcome to the personal page of Kaiqi. I was born in Foshan, Guangdong, PR China in 1996. I obtained PhD degree from Department of Pharmacology and Pharmacy, The University of Hong Kong in 2023, supervised by [Prof. Weiping Wang](https://wanglab.org). 
+Hi! Welcome to the personal page of Kaiqi. I was born in Foshan, Guangdong, China in 1996. I obtained PhD degree from Department of Pharmacology and Pharmacy, The University of Hong Kong in 2023, supervised by [Prof. Weiping Wang](https://wanglab.org). 
 
 My research interest includes photochemistry，ocular drug delivery, molecular self-assembly, optical devices, etc.
 
