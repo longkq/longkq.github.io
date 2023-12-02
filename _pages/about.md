@@ -65,7 +65,7 @@ Shuting Xu<sup>1</sup>, Kaixuan Cui<sup>1</sup>, **Kaiqi Long**, Jia Li, Ni Fan,
 
 <div class='paper-box'></div>
 <br>
-- [Facile Preparation and Photoactivation of Prodrug-dye Nanoassemblies](https://github.com) Yichi Zhang, **Kaiqi Long**, Weiping Wang* &nbsp; *Journal of Visualized Experiments*, 2023, e64677.
+- [Carrier-free nanodrugs for stemness inhibition-enhanced photodynamic therapy](https://github.com) Yuwei Liu, **Kaiqi Long**, Tianyi Wang, Weirong Kang, Weiping Wang* &nbsp; *Aggregate*, 2023, e284.
 
 <div class='paper-box'></div>
 <br>
