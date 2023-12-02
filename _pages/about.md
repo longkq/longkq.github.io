@@ -41,7 +41,7 @@ For more details, please refer to my [CV](../assets/CV.pdf). (last updated: Dec 
 
 [Near-infrared Light-Triggered Prodrug Photolysis by One-step Energy Transfer](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202301985)
 
-**Kaiqi Long**, Wen Lv, Zihan Wang, Yaming Zhang, Kang Chen, Yichi Zhang, Weiping Wang*
+**Kaiqi Long**, Wen Lv, Zihan Wang, Yaming Zhang, Kang Chen, Yichi Zhang, Weiping Wang*，
 *Nature Communications*, 2023, Accepted
 
 </div>
@@ -52,7 +52,7 @@ For more details, please refer to my [CV](../assets/CV.pdf). (last updated: Dec 
 
 [Red light-triggered anti-angiogenic and photodynamic combination therapy of age-related macular degeneration](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202301985)
 
-Shuting Xu<sup>1</sup>, Kaixuan Cui<sup>1</sup>, **Kaiqi Long**, Jia Li, Ni Fan, Wai-Ching Lam, Xiaoling Liang, Weiping WangWen Lv, Zihan Wang, Yaming Zhang, Kang Chen, Yichi Zhang, Weiping Wang*
+Shuting Xu<sup>1</sup>, Kaixuan Cui<sup>1</sup>, **Kaiqi Long**, Jia Li, Ni Fan, Wai-Ching Lam, Xiaoling Liang, Weiping WangWen Lv, Zihan Wang, Yaming Zhang, Kang Chen, Yichi Zhang, Weiping Wang*，
 *Advanced Science*, 2023, 2301985
 
 </div>
@@ -60,6 +60,9 @@ Shuting Xu<sup>1</sup>, Kaixuan Cui<sup>1</sup>, **Kaiqi Long**, Jia Li, Ni Fan,
 
 - [Facile Preparation and Photoactivation of Prodrug-dye Nanoassemblies](https://github.com) Yichi Zhang, **Kaiqi Long**, Weiping Wang*, *Journal of Visualized Experiments*, 2023, e64677.
 
+- [Facile Preparation and Photoactivation of Prodrug-dye Nanoassemblies](https://github.com) Yichi Zhang, **Kaiqi Long**, Weiping Wang*, *Journal of Visualized Experiments*, 2023, e64677.
+
+- [Facile Preparation and Photoactivation of Prodrug-dye Nanoassemblies](https://github.com) Yichi Zhang, **Kaiqi Long**, Weiping Wang*, *Journal of Visualized Experiments*, 2023, e64677.
 
 
 
