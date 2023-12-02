@@ -61,15 +61,11 @@ Shuting Xu<sup>1</sup>, Kaixuan Cui<sup>1</sup>, **Kaiqi Long**, Jia Li, Ni Fan,
 
 <div class='paper-box'></div>
 <br>
-- [Facile Preparation and Photoactivation of Prodrug-dye Nanoassemblies](https://github.com) Yichi Zhang, **Kaiqi Long**, Weiping Wang* &nbsp; *Journal of Visualized Experiments*, 2023, e64677.
+- [Carrier-free nanodrugs for stemness inhibition-enhanced photodynamic therapy](https://onlinelibrary.wiley.com/doi/10.1002/agt2.284) Yuwei Liu, **Kaiqi Long**, Tianyi Wang, Weirong Kang, Weiping Wang* &nbsp; *Aggregate*, 2023, e284. *(Highlighted on cover)*
 
 <div class='paper-box'></div>
 <br>
-- [Carrier-free nanodrugs for stemness inhibition-enhanced photodynamic therapy](https://github.com) Yuwei Liu, **Kaiqi Long**, Tianyi Wang, Weirong Kang, Weiping Wang* &nbsp; *Aggregate*, 2023, e284.
-
-<div class='paper-box'></div>
-<br>
-- [Facile Preparation and Photoactivation of Prodrug-dye Nanoassemblies](https://github.com) Yichi Zhang, **Kaiqi Long**, Weiping Wang* &nbsp; *Journal of Visualized Experiments*, 2023, e64677.
+- [Optochemical control of immune checkpoint blockade via light-triggered PD-L1 dimerization](https://onlinelibrary.wiley.com/doi/full/10.1002/anbr.202200017) Yuwei Liu, **Kaiqi Long**, Weirong Kang, Tianyi Wang, Weiping Wang* &nbsp; *Advanced NanoBiomed Research*, 2022, 2, 6 2200017. *(Highlighted on cover)*
 
 <div class='paper-box'></div>
 <br>
