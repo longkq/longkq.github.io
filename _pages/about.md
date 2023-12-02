@@ -89,9 +89,12 @@ Shuting Xu<sup>1</sup>, Kaixuan Cui<sup>1</sup>, **Kaiqi Long**, Jia Li, Ni Fan,
 - *2018.09 - 2023.11*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2014.09 - 2018.08*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Conferences
+- *2023.11*, Long-wavelength Light-triggered Drug Delivery by Upconversion-like Photolysis, 4th International Conference on PhotoPharmacology, Hong Kong, China *(Oral Presentation)*
+- *2023.06*, Long-wavelength Light-triggered Drug Delivery by Upconversion-like Photolysis, 13th International NanoMedicine Conference, Sydney, Autralia *(Oral Presentation)*
+- *2021.12*, Green-light-triggered Intravenous Chemotherapy of Retinoblastoma, Postgraduate Symposium, The University of Hong Kong, Hong Kong, China *(Poster Presentation)*
+- *2021.12*, One-photon Red Light-triggered Disassembly of Small-molecule Nanoparticles for Drug Delivery, 3rd International Conference on PhotoPharmacology, Virtual Conference *(Oral Presentation)*
+- *2019.05*, H2S-responsive Nanocarrier for Drug Delivery, 10th International Conference on Materials for Advanced Technologies (ICMAT 2019), Singapore *(Oral Presentation)*
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
