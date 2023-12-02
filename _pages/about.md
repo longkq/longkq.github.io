@@ -53,12 +53,12 @@ For more details, please refer to my [CV](../assets/CV.pdf). (last updated: Dec 
 [Red light-triggered anti-angiogenic and photodynamic combination therapy of age-related macular degeneration](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202301985)
 
 Shuting Xu, Kaixuan Cui, **Kaiqi Long**, Jia Li, Ni Fan, Wai-Ching Lam, Xiaoling Liang, Weiping WangWen Lv, Zihan Wang, Yaming Zhang, Kang Chen, Yichi Zhang, Weiping Wang*
-Advanced Science, 2023, 2301985
+*Advanced Science*, 2023, 2301985
 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Facile Preparation and Photoactivation of Prodrug-dye Nanoassemblies](https://github.com) Yichi Zhang, **Kaiqi Long**, Weiping Wang*, *Journal of Visualized Experiments*, 2023, e64677.
 
 
 
