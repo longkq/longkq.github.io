@@ -29,7 +29,7 @@ If you are seeking any form of academic cooperation, please feel free to email m
 For more details, please refer to my [CV](../assets/CV.pdf). (last updated: Dec 2, 2023)
 
 
-# 🔥 News
+# 📻 News
 - *2023.12*: &nbsp;  Kaiqi finished his PhD study in HKU. 
 
 
