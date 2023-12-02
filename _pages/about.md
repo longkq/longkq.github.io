@@ -30,8 +30,9 @@ For more details, please refer to my [CV](../assets/CV.pdf). (last updated: Dec 
 
 
 # 📻 News
-- *2023.12*: &nbsp;&nbsp;  Kaiqi finished his PhD study in HKU. 
-
+- *2023.12*: &nbsp;&nbsp;  Kaiqi finished his PhD study in HKU.
+- *2023.11*: &nbsp;&nbsp;  Kaiqi gave an oral talk on 4th International Conference on PhotoPharmacology (Hong Kong, China). 
+- *2023.06*: &nbsp;&nbsp;  Kaiqi gave an oral talk on 13th International Nanomedicine Conference (Sydney, Australia). 
 
 # 📝 Publications 
 
