@@ -20,7 +20,7 @@ redirect_from:
 # 😃 Brief Bio
 Hi! Welcome to the personal page of Kaiqi. I was born in Foshan, Guangdong, China in 1996. I obtained PhD degree from Department of Pharmacology and Pharmacy, The University of Hong Kong in 2023, supervised by [Prof. Weiping Wang](https://wanglab.org). 
 
-My research interest includes photochemistry，ocular drug delivery, molecular self-assembly, optical devices, etc.
+My research interest includes photochemistry, ocular drug delivery, molecular self-assembly, optical devices, etc.
 
 I will join Brigham and Women's Hospital, Harvard Medical School as postdoctoral fellow in Feb 2024. I will work on nucleic acid delivery there with Prof. Jinjun Shi.
 
@@ -57,13 +57,18 @@ Shuting Xu<sup>1</sup>, Kaixuan Cui<sup>1</sup>, **Kaiqi Long**, Jia Li, Ni Fan,
 </div>
 </div>
 
-<div class='paper-box'>
+<div class='paper-box'> 
+  
 - [Facile Preparation and Photoactivation of Prodrug-dye Nanoassemblies](https://github.com) Yichi Zhang, **Kaiqi Long**, Weiping Wang*&nbsp; *Journal of Visualized Experiments*, 2023, e64677.
 </div>
-
+<div class='paper-box'> 
+  
 - [Facile Preparation and Photoactivation of Prodrug-dye Nanoassemblies](https://github.com) Yichi Zhang, **Kaiqi Long**, Weiping Wang*&nbsp; *Journal of Visualized Experiments*, 2023, e64677.
-
+</div>
+<div class='paper-box'> 
+  
 - [Facile Preparation and Photoactivation of Prodrug-dye Nanoassemblies](https://github.com) Yichi Zhang, **Kaiqi Long**, Weiping Wang*&nbsp; *Journal of Visualized Experiments*, 2023, e64677.
+</div>
 
 
 
