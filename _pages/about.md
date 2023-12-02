@@ -57,6 +57,14 @@ Shuting Xu<sup>1</sup>, Kaixuan Cui<sup>1</sup>, **Kaiqi Long**, Jia Li, Ni Fan,
 </div>
 </div>
 <br>
+- [Facile Preparation and Photoactivation of Prodrug-dye Nanoassemblies]([https://github.com](https://www.jove.com/t/64677/facile-preparation-and-photoactivation-of-prodrug-dye-nanoassemblies) Yichi Zhang, **Kaiqi Long**, Weiping Wang* &nbsp; *Journal of Visualized Experiments*, 2023, e64677.
+
+<div class='paper-box'></div>
+<br>
+- [Facile Preparation and Photoactivation of Prodrug-dye Nanoassemblies](https://github.com) Yichi Zhang, **Kaiqi Long**, Weiping Wang* &nbsp; *Journal of Visualized Experiments*, 2023, e64677.
+
+<div class='paper-box'></div>
+<br>
 - [Facile Preparation and Photoactivation of Prodrug-dye Nanoassemblies](https://github.com) Yichi Zhang, **Kaiqi Long**, Weiping Wang* &nbsp; *Journal of Visualized Experiments*, 2023, e64677.
 
 <div class='paper-box'></div>
@@ -66,8 +74,13 @@ Shuting Xu<sup>1</sup>, Kaixuan Cui<sup>1</sup>, **Kaiqi Long**, Jia Li, Ni Fan,
 <div class='paper-box'></div>
 <br>
 - [Facile Preparation and Photoactivation of Prodrug-dye Nanoassemblies](https://github.com) Yichi Zhang, **Kaiqi Long**, Weiping Wang* &nbsp; *Journal of Visualized Experiments*, 2023, e64677.
-<br>
 
+
+<div class='paper-box'></div>
+<br>
+- [Facile Preparation and Photoactivation of Prodrug-dye Nanoassemblies](https://github.com) Yichi Zhang, **Kaiqi Long**, Weiping Wang* &nbsp; *Journal of Visualized Experiments*, 2023, e64677.
+<br>
+<br>
 
 # 🏅 Honors and Awards
 - *2022.11* &nbsp;  Dissertation Year Fellowship, The University of Hong Kong
