@@ -21,7 +21,7 @@ Hi! This is the personal page of Kaiqi Long. I was born in Foshan, Guangdong, PR
 
 My research interest includes ocular drug delivery, molecular self-assembly, and photochemistry.
 
-<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+<a href='https://scholar.google.com/citations?user=IfMBx54AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 I will join Brigham and Women's Hospital, Harvard Medical School as postdoctoral fellow in Feb 2024. I will work on nucleic acid delivery there with Prof. Jinjun Shi.
 
