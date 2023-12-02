@@ -36,7 +36,7 @@ For more details, please refer to my [CV](../assets/CV.pdf). (last updated: Dec 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/NC2023-500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/NC2023-500x300.png' alt="fig" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Near-infrared Light-Triggered Prodrug Photolysis by One-step Energy Transfer](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202301985)
@@ -47,7 +47,7 @@ Nature Communications, 2023, Accepted
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='AS2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='AS2023.png' alt="fig" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Red light-triggered anti-angiogenic and photodynamic combination therapy of age-related macular degeneration](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202301985)
@@ -58,7 +58,11 @@ Advanced Science, 2023, 2301985
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
