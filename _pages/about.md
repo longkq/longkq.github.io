@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😃 Brief Bio
-Hi! Welcome to the personal page of Kaiqi. I was born in Foshan, Guangdong, PR China in 1996. I obtained PhD degree from Department of Pharmacology and Pharmacy, The University of Hong Kong in 2023 under the supervision of [Prof. Weiping Wang](https://wanglab.org). 
+Hi! Welcome to the personal page of Kaiqi. I was born in Foshan, Guangdong, PR China in 1996. I obtained PhD degree from Department of Pharmacology and Pharmacy, The University of Hong Kong in 2023, supervised by [Prof. Weiping Wang](https://wanglab.org). 
 
-My research interest includes ocular drug delivery, molecular self-assembly, and photochemistry.
+My research interest includes photochemistry，ocular drug delivery, molecular self-assembly, optical devices, etc.
 
 I will join Brigham and Women's Hospital, Harvard Medical School as postdoctoral fellow in Feb 2024. I will work on nucleic acid delivery there with Prof. Jinjun Shi.
 
