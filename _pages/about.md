@@ -121,6 +121,24 @@ Yang Yang<sup>1</sup>, **Kaiqi Long<sup>1</sup>**, Yiqun Wang<sup>1</sup>, Lei L
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/AHM2020.png' alt="fig" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Red Light-Triggered Drug Release System Based on One-Photon Upconversion-Like Photolysis](https://onlinelibrary.wiley.com/doi/10.1002/adhm.202001118)
+
+Wen Lv, **Kaiqi Long**, Yang Yang, Sijie Chen, Changyou Zhan and Weiping Wang\* &nbsp; *Advanced Healthcare Materials*, 2020, 9, 2001118 
+</div>
+</div>
+
+
+<br>
+- [Optochemical Control of mTOR Signaling and mTOR-dependent Autophagy](https://pubs.acs.org/doi/10.1021/acsptsci.1c00230) Tianyi Wang, **Kaiqi Long**, Yang Zhou, Xiaoding Jiang, Jinzhao Liu, John H.C. Fong, Alan S.L. Wong, Wai-Lung Ng, Weiping Wang\* &nbsp; *ACS Pharmacology & Translational Science*, 2022, 5, 3, 149–155
+<div class='paper-box'></div>
+
+<br>
+- [Optochemical Control of mTOR Signaling and mTOR-dependent Autophagy](https://pubs.acs.org/doi/10.1021/acsptsci.1c00230) Tianyi Wang, **Kaiqi Long**, Yang Zhou, Xiaoding Jiang, Jinzhao Liu, John H.C. Fong, Alan S.L. Wong, Wai-Lung Ng, Weiping Wang\* &nbsp; *ACS Pharmacology & Translational Science*, 2022, 5, 3, 149–155
+<div class='paper-box'></div>
+
 
 <br>
 - [Facile Preparation and Photoactivation of Prodrug-dye Nanoassemblies](https://github.com) Yichi Zhang, **Kaiqi Long**, Weiping Wang\* &nbsp; *Journal of Visualized Experiments*, 2023, e64677.
