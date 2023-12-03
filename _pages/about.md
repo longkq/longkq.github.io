@@ -146,7 +146,7 @@ Wen Lv, **Kaiqi Long**, Yang Yang, Sijie Chen, Changyou Zhan and Weiping Wang\* 
 
 
 
-# 🏅 Honors and Awards
+# 🏅 Honors & Awards
 - *2022.11* &nbsp;  Dissertation Year Fellowship, The University of Hong Kong
 - *2022.03* &nbsp;  Gold Medal, 2022 Inventions Geneva Evaluation Days (Project: Light-responsive Ocular Drug Delivery)
 - *2018-2022* &nbsp;  Hong Kong PhD Fellowship Scheme
@@ -157,7 +157,7 @@ Wen Lv, **Kaiqi Long**, Yang Yang, Sijie Chen, Changyou Zhan and Weiping Wang\* 
 - *2015.09* &nbsp; First-class Scholarship, SYSU
 - *2014.02* &nbsp; Second Price, The 27th Chinese Chemistry Olympiad (CChO)
 
-# 📖 Educations
+# 📖 Educations & Works
 - *2024.02 - present*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2018.09 - 2023.11*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2014.09 - 2018.08*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  
