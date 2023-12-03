@@ -67,6 +67,7 @@ Shuting Xu<sup>1</sup>, Kaixuan Cui<sup>1</sup>, **Kaiqi Long**, Jia Li, Ni Fan,
 <br>
 - [Optochemical control of immune checkpoint blockade via light-triggered PD-L1 dimerization](https://onlinelibrary.wiley.com/doi/full/10.1002/anbr.202200017) Yuwei Liu, **Kaiqi Long**, Weirong Kang, Tianyi Wang, Weiping Wang* &nbsp; *Advanced NanoBiomed Research*, 2022, 2, 6 2200017. *(Highlighted on cover)*
 
+</div></div>
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/2022-AdvTheraputics.png' alt="fig" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
