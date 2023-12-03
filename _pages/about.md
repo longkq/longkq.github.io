@@ -42,7 +42,7 @@ For more details, please refer to my [CV](../assets/CV.pdf). (last updated: Dec 
 
 [Near-infrared Light-Triggered Prodrug Photolysis by One-step Energy Transfer](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202301985)
 
-**Kaiqi Long**, Wen Lv, Zihan Wang, Yaming Zhang, Kang Chen, Yichi Zhang, Weiping Wang* &nbsp;
+**Kaiqi Long**, Wen Lv, Zihan Wang, Yaming Zhang, Kang Chen, Yichi Zhang, Weiping Wang\* &nbsp;
 *Nature Communications*, 2023, Accepted
 
 </div>
@@ -53,19 +53,19 @@ For more details, please refer to my [CV](../assets/CV.pdf). (last updated: Dec 
 
 [Red light-triggered anti-angiogenic and photodynamic combination therapy of age-related macular degeneration](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202301985)
 
-Shuting Xu<sup>1</sup>, Kaixuan Cui<sup>1</sup>, **Kaiqi Long**, Jia Li, Ni Fan, Wai-Ching Lam, Xiaoling Liang, Weiping Wang* &nbsp; *Advanced Science*, 2023, 2301985 &nbsp;*(Highlighted on cover)*
+Shuting Xu<sup>1</sup>, Kaixuan Cui<sup>1</sup>, **Kaiqi Long**, Jia Li, Ni Fan, Wai-Ching Lam, Xiaoling Liang, Weiping Wang\* &nbsp; *Advanced Science*, 2023, 2301985 &nbsp;*(Highlighted on cover)*
 </div>
 </div>
 <br>
-- [Facile Preparation and Photoactivation of Prodrug-dye Nanoassemblies](https://www.jove.com/t/64677/facile-preparation-and-photoactivation-of-prodrug-dye-nanoassemblies) Yichi Zhang, **Kaiqi Long**, Weiping Wang* &nbsp; *Journal of Visualized Experiments*, 2023, e64677.
+- [Facile Preparation and Photoactivation of Prodrug-dye Nanoassemblies](https://www.jove.com/t/64677/facile-preparation-and-photoactivation-of-prodrug-dye-nanoassemblies) Yichi Zhang, **Kaiqi Long**, Weiping Wang\* &nbsp; *Journal of Visualized Experiments*, 2023, e64677.
 <div class='paper-box'></div>
 
 <br>
-- [Carrier-free nanodrugs for stemness inhibition-enhanced photodynamic therapy](https://onlinelibrary.wiley.com/doi/10.1002/agt2.284) Yuwei Liu, **Kaiqi Long**, Tianyi Wang, Weirong Kang, Weiping Wang* &nbsp; *Aggregate*, 2023, e284. *(Highlighted on cover)*
+- [Carrier-free nanodrugs for stemness inhibition-enhanced photodynamic therapy](https://onlinelibrary.wiley.com/doi/10.1002/agt2.284) Yuwei Liu, **Kaiqi Long**, Tianyi Wang, Weirong Kang, Weiping Wang\* &nbsp; *Aggregate*, 2023, e284. *(Highlighted on cover)*
 <div class='paper-box'></div>
 
 <br>
-- [Optochemical control of immune checkpoint blockade via light-triggered PD-L1 dimerization](https://onlinelibrary.wiley.com/doi/full/10.1002/anbr.202200017) Yuwei Liu, **Kaiqi Long**, Weirong Kang, Tianyi Wang, Weiping Wang* &nbsp; *Advanced NanoBiomed Research*, 2022, 2, 6 2200017. *(Highlighted on cover)*
+- [Optochemical control of immune checkpoint blockade via light-triggered PD-L1 dimerization](https://onlinelibrary.wiley.com/doi/full/10.1002/anbr.202200017) Yuwei Liu, **Kaiqi Long**, Weirong Kang, Tianyi Wang, Weiping Wang\* &nbsp; *Advanced NanoBiomed Research*, 2022, 2, 6 2200017. *(Highlighted on cover)*
 <div class='paper-box'></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/2022-AdvTheraputics.png' alt="fig" width="100%"></div></div>
@@ -73,7 +73,7 @@ Shuting Xu<sup>1</sup>, Kaixuan Cui<sup>1</sup>, **Kaiqi Long**, Jia Li, Ni Fan,
 
 [H2S-responsive Small-Molecule Nanocarrier for Drug Delivery to Colorectal Tumor](https://onlinelibrary.wiley.com/doi/10.1002/adtp.202200044)
 
-**Kaiqi Long**, Yang Yang, Zhanfeng Du, Weirong Kang, Wen Lv, Yafei Li, Yusheng Xie, Hongyan Sung, Changyou Zhan, Weiping Wang* &nbsp; *Advanced Therapeutics*, 2022, 2200044 &nbsp;*(Highlighted on cover)*
+**Kaiqi Long**, Yang Yang, Zhanfeng Du, Weirong Kang, Wen Lv, Yafei Li, Yusheng Xie, Hongyan Sung, Changyou Zhan, Weiping Wang\* &nbsp; *Advanced Therapeutics*, 2022, 2200044 &nbsp;*(Highlighted on cover)*
 </div>
 </div>
 
@@ -82,12 +82,12 @@ Shuting Xu<sup>1</sup>, Kaixuan Cui<sup>1</sup>, **Kaiqi Long**, Jia Li, Ni Fan,
 
 [Photoresponsive Prodrug-dye Nanoassembly for in-situ Monitorable Cancer Therapy](https://aiche.onlinelibrary.wiley.com/doi/10.1002/btm2.10311)
 
-**Kaiqi Long<sup>1</sup>**, Yifan Wang<sup>1</sup> Wen Lv, Yang Yang, Shuting Xu, Changyou Zhan, Weiping Wang* &nbsp; *Bioengineering & Translational Medicine*, 2022, 7, 3, e10311
+**Kaiqi Long<sup>1</sup>**, Yifan Wang<sup>1</sup> Wen Lv, Yang Yang, Shuting Xu, Changyou Zhan, Weiping Wang\* &nbsp; *Bioengineering & Translational Medicine*, 2022, 7, 3, e10311
 </div>
 </div>
 
 <br>
-- [Optochemical Control of mTOR Signaling and mTOR-dependent Autophagy](https://pubs.acs.org/doi/10.1021/acsptsci.1c00230) Tianyi Wang, **Kaiqi Long**, Yang Zhou, Xiaoding Jiang, Jinzhao Liu, John H.C. Fong, Alan S.L. Wong, Wai-Lung Ng, Weiping Wang* &nbsp; *ACS Pharmacology & Translational Science*, 2022, 5, 3, 149–155
+- [Optochemical Control of mTOR Signaling and mTOR-dependent Autophagy](https://pubs.acs.org/doi/10.1021/acsptsci.1c00230) Tianyi Wang, **Kaiqi Long**, Yang Zhou, Xiaoding Jiang, Jinzhao Liu, John H.C. Fong, Alan S.L. Wong, Wai-Lung Ng, Weiping Wang\* &nbsp; *ACS Pharmacology & Translational Science*, 2022, 5, 3, 149–155
 <div class='paper-box'></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/AHM-2022.png' alt="fig" width="100%"></div></div>
