@@ -95,7 +95,7 @@ Shuting Xu<sup>1</sup>, Kaixuan Cui<sup>1</sup>, **Kaiqi Long**, Jia Li, Ni Fan,
 
 [NIR light-triggered quantitative pulsed drug release](https://onlinelibrary.wiley.com/doi/abs/10.1002/adhm.202102362)
 
-Yang Yang<sup>1</sup>, **Kaiqi Long<sup>1</sup>**, Yiqun Wang<sup>1</sup>, Lei Li, Jiayue Shi, Jican Liu, Lingxi Kong, Lin Yu, Jiandong Ding, Zhili Huang*, Weiping Wang*，Changyou Zhan* &nbsp; *Advanced Healthcare Materials*, 2022, 11, 8, 2102362
+Yang Yang<sup>1</sup>, **Kaiqi Long<sup>1</sup>**, Yiqun Wang<sup>1</sup>, Lei Li, Jiayue Shi, Jican Liu, Lingxi Kong, Lin Yu, Jiandong Ding, Zhili Huang\*, Weiping Wang\*，Changyou Zhan\* &nbsp; *Advanced Healthcare Materials*, 2022, 11, 8, 2102362
 </div>
 </div>
 
@@ -104,12 +104,12 @@ Yang Yang<sup>1</sup>, **Kaiqi Long<sup>1</sup>**, Yiqun Wang<sup>1</sup>, Lei L
 
 [One-photon Red Light-triggered Disassembly of Small-molecule Nanoparticles for Drug Delivery](https://jnanobiotechnology.biomedcentral.com/articles/10.1186/s12951-021-01103-z)
 
-**Kaiqi Long<sup>1</sup>**, Han Han<sup>1</sup>, Weirong Kang, Wen Lv, Lang Wang, Yufeng Wang, Liang Ge*, Weiping Wang &nbsp; *Journal of Nanobiotechnology*, 2021, 19, 357
+**Kaiqi Long<sup>1</sup>**, Han Han<sup>1</sup>, Weirong Kang, Wen Lv, Lang Wang, Yufeng Wang, Liang Ge\*, Weiping Wang\* &nbsp; *Journal of Nanobiotechnology*, 2021, 19, 357
 </div>
 </div>
 
 <br>
-- [Facile Preparation and Photoactivation of Prodrug-dye Nanoassemblies](https://github.com) Yichi Zhang, **Kaiqi Long**, Weiping Wang* &nbsp; *Journal of Visualized Experiments*, 2023, e64677.
+- [Facile Preparation and Photoactivation of Prodrug-dye Nanoassemblies](https://github.com) Yichi Zhang, **Kaiqi Long**, Weiping Wang\* &nbsp; *Journal of Visualized Experiments*, 2023, e64677.
 <br>
 <br>
 
