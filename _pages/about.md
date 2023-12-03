@@ -77,8 +77,7 @@ Shuting Xu<sup>1</sup>, Kaixuan Cui<sup>1</sup>, **Kaiqi Long**, Jia Li, Ni Fan,
 Kaiqi Long, Yang Yang, Zhanfeng Du, Weirong Kang, Wen Lv, Yafei Li, Yusheng Xie, Hongyan Sung, Changyou Zhan, Weiping Wang* &nbsp; *Advanced Therapeutics*, 2022, 2200044 &nbsp;*(Highlighted on cover)*
 </div>
 </div>
-<br>
-<div class='paper-box'></div>
+
 <br>
 - [Facile Preparation and Photoactivation of Prodrug-dye Nanoassemblies](https://github.com) Yichi Zhang, **Kaiqi Long**, Weiping Wang* &nbsp; *Journal of Visualized Experiments*, 2023, e64677.
 
