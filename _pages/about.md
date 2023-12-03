@@ -130,20 +130,21 @@ Wen Lv, **Kaiqi Long**, Yang Yang, Sijie Chen, Changyou Zhan and Weiping Wang\* 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/JMCB2020.png' alt="fig" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Self-assembly of trigonal building blocks into nanostructures: molecular design and biomedical applications](https://pubs.rsc.org/en/content/articlelanding/2020/tb/d0tb01128b#!divAbstract)
+
+**Kaiqi Long**, Yuwei Liu, Yafei Li and Weiping Wang\* &nbsp; *Journal of Materials Chemistry B*, 2020, 8, 6739-6752 *(invited review)*
+</div>
+</div>
+
 
 <br>
-- [Optochemical Control of mTOR Signaling and mTOR-dependent Autophagy](https://pubs.acs.org/doi/10.1021/acsptsci.1c00230) Tianyi Wang, **Kaiqi Long**, Yang Zhou, Xiaoding Jiang, Jinzhao Liu, John H.C. Fong, Alan S.L. Wong, Wai-Lung Ng, Weiping Wang\* &nbsp; *ACS Pharmacology & Translational Science*, 2022, 5, 3, 149–155
+- [A Soluplus/Poloxamer 407-based self-nanoemulsifying drug delivery system for the weakly basic drug carvedilol to improve its bioavailability](https://www.sciencedirect.com/science/article/abs/pii/S1549963420300538) Han Han<sup>1</sup>, Yun Li<sup>1</sup>, Zhen Peng, **Kaiqi Long**, Chunli Zheng, Weiping Wang\*, Thomas J. Webster\*, Liang Ge\* &nbsp; *Nanomedicine: Nanotechnology, Biology and Medicine*, 2020, 27, 102199
 <div class='paper-box'></div>
 
-<br>
-- [Optochemical Control of mTOR Signaling and mTOR-dependent Autophagy](https://pubs.acs.org/doi/10.1021/acsptsci.1c00230) Tianyi Wang, **Kaiqi Long**, Yang Zhou, Xiaoding Jiang, Jinzhao Liu, John H.C. Fong, Alan S.L. Wong, Wai-Lung Ng, Weiping Wang\* &nbsp; *ACS Pharmacology & Translational Science*, 2022, 5, 3, 149–155
-<div class='paper-box'></div>
 
-
-<br>
-- [Facile Preparation and Photoactivation of Prodrug-dye Nanoassemblies](https://github.com) Yichi Zhang, **Kaiqi Long**, Weiping Wang\* &nbsp; *Journal of Visualized Experiments*, 2023, e64677.
-<br>
-<br>
 
 # 🏅 Honors and Awards
 - *2022.11* &nbsp;  Dissertation Year Fellowship, The University of Hong Kong
