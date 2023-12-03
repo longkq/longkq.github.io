@@ -93,9 +93,9 @@ Shuting Xu<sup>1</sup>, Kaixuan Cui<sup>1</sup>, **Kaiqi Long**, Jia Li, Ni Fan,
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/AHM-2022.png' alt="fig" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[NIR light-triggered quantitative pulsed drug release]((https://onlinelibrary.wiley.com/doi/abs/10.1002/adhm.202102362)
+[NIR light-triggered quantitative pulsed drug release](https://onlinelibrary.wiley.com/doi/abs/10.1002/adhm.202102362)
 
-Yang Yang<sup>1</sup>, **Kaiqi Long<sup>1</sup>**, Yiqun Wang1, Lei Li, Jiayue Shi, Jican Liu, Lingxi Kong, Lin Yu, Jiandong Ding, Zhili Huang*, Weiping Wang* &nbsp; *Advanced Healthcare Materials*, 2022, 11, 8, 2102362
+Yang Yang<sup>1</sup>, **Kaiqi Long<sup>1</sup>**, Yiqun Wang<sup>1</sup>, Lei Li, Jiayue Shi, Jican Liu, Lingxi Kong, Lin Yu, Jiandong Ding, Zhili Huang*, Weiping Wang*，Changyou Zhan* &nbsp; *Advanced Healthcare Materials*, 2022, 11, 8, 2102362
 </div>
 </div>
 
