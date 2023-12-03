@@ -112,7 +112,7 @@ Yang Yang<sup>1</sup>, **Kaiqi Long<sup>1</sup>**, Yiqun Wang<sup>1</sup>, Lei L
 - [Photoenhanced cytosolic protein delivery based on a photocleavable group-modified dendrimer](https://pubs.rsc.org/en/Content/ArticleLanding/2021/NR/D1NR04430C) Yafei Li<sup>1</sup>, Yang Zhou<sup>1</sup>, **Kaiqi Long**, Yaming Zhang, Tianyi Wang, Weiping Wang\* &nbsp; *Nanoscale*, 2021, 13, 17784-17792  *(Highlighted on cover)*
 <div class='paper-box'></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/AHM-2022.png' alt="fig" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/AS2021.png' alt="fig" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Green light-triggered intraocular drug release for intravenous chemotherapy of retinoblastoma](https://onlinelibrary.wiley.com/doi/10.1002/advs.202101754)
