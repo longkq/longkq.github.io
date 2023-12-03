@@ -58,15 +58,14 @@ Shuting Xu<sup>1</sup>, Kaixuan Cui<sup>1</sup>, **Kaiqi Long**, Jia Li, Ni Fan,
 </div>
 <br>
 - [Facile Preparation and Photoactivation of Prodrug-dye Nanoassemblies](https://www.jove.com/t/64677/facile-preparation-and-photoactivation-of-prodrug-dye-nanoassemblies) Yichi Zhang, **Kaiqi Long**, Weiping Wang* &nbsp; *Journal of Visualized Experiments*, 2023, e64677.
-
 <div class='paper-box'></div>
+
 <br>
 - [Carrier-free nanodrugs for stemness inhibition-enhanced photodynamic therapy](https://onlinelibrary.wiley.com/doi/10.1002/agt2.284) Yuwei Liu, **Kaiqi Long**, Tianyi Wang, Weirong Kang, Weiping Wang* &nbsp; *Aggregate*, 2023, e284. *(Highlighted on cover)*
-
 <div class='paper-box'></div>
+
 <br>
 - [Optochemical control of immune checkpoint blockade via light-triggered PD-L1 dimerization](https://onlinelibrary.wiley.com/doi/full/10.1002/anbr.202200017) Yuwei Liu, **Kaiqi Long**, Weirong Kang, Tianyi Wang, Weiping Wang* &nbsp; *Advanced NanoBiomed Research*, 2022, 2, 6 2200017. *(Highlighted on cover)*
-
 <div class='paper-box'></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/2022-AdvTheraputics.png' alt="fig" width="100%"></div></div>
@@ -74,15 +73,23 @@ Shuting Xu<sup>1</sup>, Kaixuan Cui<sup>1</sup>, **Kaiqi Long**, Jia Li, Ni Fan,
 
 [H2S-responsive Small-Molecule Nanocarrier for Drug Delivery to Colorectal Tumor](https://onlinelibrary.wiley.com/doi/10.1002/adtp.202200044)
 
-Kaiqi Long, Yang Yang, Zhanfeng Du, Weirong Kang, Wen Lv, Yafei Li, Yusheng Xie, Hongyan Sung, Changyou Zhan, Weiping Wang* &nbsp; *Advanced Therapeutics*, 2022, 2200044 &nbsp;*(Highlighted on cover)*
+**Kaiqi Long**, Yang Yang, Zhanfeng Du, Weirong Kang, Wen Lv, Yafei Li, Yusheng Xie, Hongyan Sung, Changyou Zhan, Weiping Wang* &nbsp; *Advanced Therapeutics*, 2022, 2200044 &nbsp;*(Highlighted on cover)*
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/2022-AdvTheraputics.png' alt="fig" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Photoresponsive Prodrug-dye Nanoassembly for in-situ Monitorable Cancer Therapy](https://aiche.onlinelibrary.wiley.com/doi/10.1002/btm2.10311)
+
+**Kaiqi Long<sup>1</sup>**, Yifan Wang<sup>1</sup> Wen Lv, Yang Yang, Shuting Xu, Changyou Zhan, Weiping Wang* &nbsp; *Bioengineering & Translational Medicine*, 2022, 7, 3, e10311
 </div>
 </div>
 
 <br>
 - [Facile Preparation and Photoactivation of Prodrug-dye Nanoassemblies](https://github.com) Yichi Zhang, **Kaiqi Long**, Weiping Wang* &nbsp; *Journal of Visualized Experiments*, 2023, e64677.
-
-
 <div class='paper-box'></div>
+
 <br>
 - [Facile Preparation and Photoactivation of Prodrug-dye Nanoassemblies](https://github.com) Yichi Zhang, **Kaiqi Long**, Weiping Wang* &nbsp; *Journal of Visualized Experiments*, 2023, e64677.
 <br>
