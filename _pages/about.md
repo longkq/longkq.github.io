@@ -87,7 +87,7 @@ Shuting Xu<sup>1</sup>, Kaixuan Cui<sup>1</sup>, **Kaiqi Long**, Jia Li, Ni Fan,
 </div>
 
 <br>
-- [Facile Preparation and Photoactivation of Prodrug-dye Nanoassemblies](https://github.com) Yichi Zhang, **Kaiqi Long**, Weiping Wang* &nbsp; *Journal of Visualized Experiments*, 2023, e64677.
+- [Optochemical Control of mTOR Signaling and mTOR-dependent Autophagy](https://pubs.acs.org/doi/10.1021/acsptsci.1c00230) Tianyi Wang, **Kaiqi Long**, Yang Zhou, Xiaoding Jiang, Jinzhao Liu, John H.C. Fong, Alan S.L. Wong, Wai-Lung Ng, Weiping Wang* &nbsp; *ACS Pharmacology & Translational Science*, 2022, 5, 3, 149–155
 <div class='paper-box'></div>
 
 <br>
