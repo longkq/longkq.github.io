@@ -169,5 +169,10 @@ Wen Lv, **Kaiqi Long**, Yang Yang, Sijie Chen, Changyou Zhan and Weiping Wang\* 
 - *2021.12*, One-photon Red Light-triggered Disassembly of Small-molecule Nanoparticles for Drug Delivery, 3rd International Conference on PhotoPharmacology, Virtual Conference *(Oral Presentation)*
 - *2019.05*, H2S-responsive Nanocarrier for Drug Delivery, 10th International Conference on Materials for Advanced Technologies (ICMAT 2019), Singapore *(Oral Presentation)*
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 📜 Patents
+- Weiping Wang, **Kaiqi Long**, NIR Light-triggered Photolysis by One-step Energy Transfer, US Provisional Patent (No. 63/506,991, 2023)
+- Weiping Wang, **Kaiqi Long**, A Controlled Drug Release System of Photoresponsive Nanocarriers, Methods of Making and Using thereof, PCT Patent (No. PCT/CN2021/081262, 2021)
+- Weiping Wang, Tianyi Wang, **Kaiqi Long**, Compositions and Methods of Optochemical Control of mTOR Signaling and mTOR-dependent Autophagy, US Patent (No. 17/850,720, 2022)
+- Weiping Wang, **Kaiqi Long**, Shuting Xu, Photoactivatable Prodrug Nanoparticles for Combined Anti-angiogenesis and Photodynamic Therapy, PCT Patent (No. PCT/CN2022/107621, 2022)
+- Weiping Wang, Yuwei Liu, **Kaiqi Long**, Photoresponsive Prodrugs for Targeted Immunotherapy, US Provisional Patent (No. 63/203,87, 2021)
+- Weiping Wang, **Kaiqi Long**,Yifan Wang, Photocleavable Prodrug-based Nanomedicine for in-situ Monitorable Cancer Therapy, US Provisional Patent (No. 63/262,789, 2021)
