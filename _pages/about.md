@@ -77,7 +77,7 @@ Shuting Xu<sup>1</sup>, Kaixuan Cui<sup>1</sup>, **Kaiqi Long**, Jia Li, Ni Fan,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/2022-AdvTheraputics.png' alt="fig" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/BioTM.png' alt="fig" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Photoresponsive Prodrug-dye Nanoassembly for in-situ Monitorable Cancer Therapy](https://aiche.onlinelibrary.wiley.com/doi/10.1002/btm2.10311)
@@ -89,6 +89,15 @@ Shuting Xu<sup>1</sup>, Kaixuan Cui<sup>1</sup>, **Kaiqi Long**, Jia Li, Ni Fan,
 <br>
 - [Optochemical Control of mTOR Signaling and mTOR-dependent Autophagy](https://pubs.acs.org/doi/10.1021/acsptsci.1c00230) Tianyi Wang, **Kaiqi Long**, Yang Zhou, Xiaoding Jiang, Jinzhao Liu, John H.C. Fong, Alan S.L. Wong, Wai-Lung Ng, Weiping Wang* &nbsp; *ACS Pharmacology & Translational Science*, 2022, 5, 3, 149–155
 <div class='paper-box'></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/AHM-2022.png' alt="fig" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[NIR light-triggered quantitative pulsed drug release]((https://onlinelibrary.wiley.com/doi/abs/10.1002/adhm.202102362)
+
+Yang Yang<sup>1</sup>, **Kaiqi Long<sup>1</sup>**, Yiqun Wang1, Lei Li, Jiayue Shi, Jican Liu, Lingxi Kong, Lin Yu, Jiandong Ding, Zhili Huang*, Weiping Wang* &nbsp; *Advanced Healthcare Materials*, 2022, 11, 8, 2102362
+</div>
+</div>
 
 <br>
 - [Facile Preparation and Photoactivation of Prodrug-dye Nanoassemblies](https://github.com) Yichi Zhang, **Kaiqi Long**, Weiping Wang* &nbsp; *Journal of Visualized Experiments*, 2023, e64677.
