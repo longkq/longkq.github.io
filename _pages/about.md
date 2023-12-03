@@ -99,6 +99,15 @@ Yang Yang<sup>1</sup>, **Kaiqi Long<sup>1</sup>**, Yiqun Wang<sup>1</sup>, Lei L
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/JN2022.png' alt="fig" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[One-photon Red Light-triggered Disassembly of Small-molecule Nanoparticles for Drug Delivery](https://jnanobiotechnology.biomedcentral.com/articles/10.1186/s12951-021-01103-z)
+
+**Kaiqi Long<sup>1</sup>**, Han Han<sup>1</sup>, Weirong Kang, Wen Lv, Lang Wang, Yufeng Wang, Liang Ge*, Weiping Wang &nbsp; *Journal of Nanobiotechnology*, 2021, 19, 357
+</div>
+</div>
+
 <br>
 - [Facile Preparation and Photoactivation of Prodrug-dye Nanoassemblies](https://github.com) Yichi Zhang, **Kaiqi Long**, Weiping Wang* &nbsp; *Journal of Visualized Experiments*, 2023, e64677.
 <br>
