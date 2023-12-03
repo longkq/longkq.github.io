@@ -115,7 +115,7 @@ Yang Yang<sup>1</sup>, **Kaiqi Long<sup>1</sup>**, Yiqun Wang<sup>1</sup>, Lei L
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/AS2021.png' alt="fig" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Green light-triggered intraocular drug release for intravenous chemotherapy of retinoblastoma](https://onlinelibrary.wiley.com/doi/10.1002/advs.202101754)
+4- [Green light-triggered intraocular drug release for intravenous chemotherapy of retinoblastoma](https://onlinelibrary.wiley.com/doi/10.1002/advs.202101754)
 
 **Kaiqi Long<sup>1</sup>**, Yang Yang<sup>1</sup>, Wen Lv, Kuan Jiang, Yafei Li, Amy Cheuk Yin Lo, Wai Ching Lam, Changyou Zhan\*, Weiping Wang\* &nbsp; *Advanced Science*, 2021, 8, 20, 2101754 *(Highlighted on cover) (High downloaded paper in 2022)*
 </div>
@@ -124,7 +124,7 @@ Yang Yang<sup>1</sup>, **Kaiqi Long<sup>1</sup>**, Yiqun Wang<sup>1</sup>, Lei L
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/AHM2020.png' alt="fig" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Red Light-Triggered Drug Release System Based on One-Photon Upconversion-Like Photolysis](https://onlinelibrary.wiley.com/doi/10.1002/adhm.202001118)
+3- [A Red Light-Triggered Drug Release System Based on One-Photon Upconversion-Like Photolysis](https://onlinelibrary.wiley.com/doi/10.1002/adhm.202001118)
 
 Wen Lv, **Kaiqi Long**, Yang Yang, Sijie Chen, Changyou Zhan and Weiping Wang\* &nbsp; *Advanced Healthcare Materials*, 2020, 9, 2001118 
 </div>
@@ -133,7 +133,7 @@ Wen Lv, **Kaiqi Long**, Yang Yang, Sijie Chen, Changyou Zhan and Weiping Wang\* 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/JMCB2020.png' alt="fig" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Self-assembly of trigonal building blocks into nanostructures: molecular design and biomedical applications](https://pubs.rsc.org/en/content/articlelanding/2020/tb/d0tb01128b#!divAbstract)
+2- [Self-assembly of trigonal building blocks into nanostructures: molecular design and biomedical applications](https://pubs.rsc.org/en/content/articlelanding/2020/tb/d0tb01128b#!divAbstract)
 
 **Kaiqi Long**, Yuwei Liu, Yafei Li and Weiping Wang\* &nbsp; *Journal of Materials Chemistry B*, 2020, 8, 6739-6752 *(invited review)*
 </div>
@@ -141,7 +141,7 @@ Wen Lv, **Kaiqi Long**, Yang Yang, Sijie Chen, Changyou Zhan and Weiping Wang\* 
 
 
 <br>
-- [A Soluplus/Poloxamer 407-based self-nanoemulsifying drug delivery system for the weakly basic drug carvedilol to improve its bioavailability](https://www.sciencedirect.com/science/article/abs/pii/S1549963420300538) Han Han<sup>1</sup>, Yun Li<sup>1</sup>, Zhen Peng, **Kaiqi Long**, Chunli Zheng, Weiping Wang\*, Thomas J. Webster\*, Liang Ge\* &nbsp; *Nanomedicine: Nanotechnology, Biology and Medicine*, 2020, 27, 102199
+1- [A Soluplus/Poloxamer 407-based self-nanoemulsifying drug delivery system for the weakly basic drug carvedilol to improve its bioavailability](https://www.sciencedirect.com/science/article/abs/pii/S1549963420300538) Han Han<sup>1</sup>, Yun Li<sup>1</sup>, Zhen Peng, **Kaiqi Long**, Chunli Zheng, Weiping Wang\*, Thomas J. Webster\*, Liang Ge\* &nbsp; *Nanomedicine: Nanotechnology, Biology and Medicine*, 2020, 27, 102199
 <div class='paper-box'></div>
 
 
