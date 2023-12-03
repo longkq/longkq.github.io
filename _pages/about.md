@@ -40,7 +40,7 @@ For more details, please refer to my [CV](../assets/CV.pdf). (last updated: Dec 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/NC2023-500x300.png' alt="fig" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Near-infrared Light-Triggered Prodrug Photolysis by One-step Energy Transfer](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202301985)
+15. [Near-infrared Light-Triggered Prodrug Photolysis by One-step Energy Transfer](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202301985)
 
 **Kaiqi Long**, Wen Lv, Zihan Wang, Yaming Zhang, Kang Chen, Yichi Zhang, Weiping Wang\* &nbsp;
 *Nature Communications*, 2023, Accepted
@@ -51,27 +51,27 @@ For more details, please refer to my [CV](../assets/CV.pdf). (last updated: Dec 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/AS2023.png' alt="fig" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Red light-triggered anti-angiogenic and photodynamic combination therapy of age-related macular degeneration](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202301985)
+14. [Red light-triggered anti-angiogenic and photodynamic combination therapy of age-related macular degeneration](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202301985)
 
 Shuting Xu<sup>1</sup>, Kaixuan Cui<sup>1</sup>, **Kaiqi Long**, Jia Li, Ni Fan, Wai-Ching Lam, Xiaoling Liang, Weiping Wang\* &nbsp; *Advanced Science*, 2023, 2301985 &nbsp;*(Highlighted on cover)*
 </div>
 </div>
 <br>
-- [Facile Preparation and Photoactivation of Prodrug-dye Nanoassemblies](https://www.jove.com/t/64677/facile-preparation-and-photoactivation-of-prodrug-dye-nanoassemblies) Yichi Zhang, **Kaiqi Long**, Weiping Wang\* &nbsp; *Journal of Visualized Experiments*, 2023, e64677.
+13. [Facile Preparation and Photoactivation of Prodrug-dye Nanoassemblies](https://www.jove.com/t/64677/facile-preparation-and-photoactivation-of-prodrug-dye-nanoassemblies) Yichi Zhang, **Kaiqi Long**, Weiping Wang\* &nbsp; *Journal of Visualized Experiments*, 2023, e64677.
 <div class='paper-box'></div>
 
 <br>
-- [Carrier-free nanodrugs for stemness inhibition-enhanced photodynamic therapy](https://onlinelibrary.wiley.com/doi/10.1002/agt2.284) Yuwei Liu, **Kaiqi Long**, Tianyi Wang, Weirong Kang, Weiping Wang\* &nbsp; *Aggregate*, 2023, e284. *(Highlighted on cover)*
+12. [Carrier-free nanodrugs for stemness inhibition-enhanced photodynamic therapy](https://onlinelibrary.wiley.com/doi/10.1002/agt2.284) Yuwei Liu, **Kaiqi Long**, Tianyi Wang, Weirong Kang, Weiping Wang\* &nbsp; *Aggregate*, 2023, e284. *(Highlighted on cover)*
 <div class='paper-box'></div>
 
 <br>
-- [Optochemical control of immune checkpoint blockade via light-triggered PD-L1 dimerization](https://onlinelibrary.wiley.com/doi/full/10.1002/anbr.202200017) Yuwei Liu, **Kaiqi Long**, Weirong Kang, Tianyi Wang, Weiping Wang\* &nbsp; *Advanced NanoBiomed Research*, 2022, 2, 6 2200017. *(Highlighted on cover)*
+11. [Optochemical control of immune checkpoint blockade via light-triggered PD-L1 dimerization](https://onlinelibrary.wiley.com/doi/full/10.1002/anbr.202200017) Yuwei Liu, **Kaiqi Long**, Weirong Kang, Tianyi Wang, Weiping Wang\* &nbsp; *Advanced NanoBiomed Research*, 2022, 2, 6 2200017. *(Highlighted on cover)*
 <div class='paper-box'></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/2022-AdvTheraputics.png' alt="fig" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[H2S-responsive Small-Molecule Nanocarrier for Drug Delivery to Colorectal Tumor](https://onlinelibrary.wiley.com/doi/10.1002/adtp.202200044)
+10. [H2S-responsive Small-Molecule Nanocarrier for Drug Delivery to Colorectal Tumor](https://onlinelibrary.wiley.com/doi/10.1002/adtp.202200044)
 
 **Kaiqi Long**, Yang Yang, Zhanfeng Du, Weirong Kang, Wen Lv, Yafei Li, Yusheng Xie, Hongyan Sung, Changyou Zhan, Weiping Wang\* &nbsp; *Advanced Therapeutics*, 2022, 2200044 &nbsp;*(Highlighted on cover)*
 </div>
@@ -80,20 +80,20 @@ Shuting Xu<sup>1</sup>, Kaixuan Cui<sup>1</sup>, **Kaiqi Long**, Jia Li, Ni Fan,
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/BioTM.png' alt="fig" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Photoresponsive Prodrug-dye Nanoassembly for in-situ Monitorable Cancer Therapy](https://aiche.onlinelibrary.wiley.com/doi/10.1002/btm2.10311)
+9. [Photoresponsive Prodrug-dye Nanoassembly for in-situ Monitorable Cancer Therapy](https://aiche.onlinelibrary.wiley.com/doi/10.1002/btm2.10311)
 
 **Kaiqi Long<sup>1</sup>**, Yifan Wang<sup>1</sup> Wen Lv, Yang Yang, Shuting Xu, Changyou Zhan, Weiping Wang\* &nbsp; *Bioengineering & Translational Medicine*, 2022, 7, 3, e10311
 </div>
 </div>
 
 <br>
-- [Optochemical Control of mTOR Signaling and mTOR-dependent Autophagy](https://pubs.acs.org/doi/10.1021/acsptsci.1c00230) Tianyi Wang, **Kaiqi Long**, Yang Zhou, Xiaoding Jiang, Jinzhao Liu, John H.C. Fong, Alan S.L. Wong, Wai-Lung Ng, Weiping Wang\* &nbsp; *ACS Pharmacology & Translational Science*, 2022, 5, 3, 149–155
+8. [Optochemical Control of mTOR Signaling and mTOR-dependent Autophagy](https://pubs.acs.org/doi/10.1021/acsptsci.1c00230) Tianyi Wang, **Kaiqi Long**, Yang Zhou, Xiaoding Jiang, Jinzhao Liu, John H.C. Fong, Alan S.L. Wong, Wai-Lung Ng, Weiping Wang\* &nbsp; *ACS Pharmacology & Translational Science*, 2022, 5, 3, 149–155
 <div class='paper-box'></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/AHM-2022.png' alt="fig" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[NIR light-triggered quantitative pulsed drug release](https://onlinelibrary.wiley.com/doi/abs/10.1002/adhm.202102362)
+7. [NIR light-triggered quantitative pulsed drug release](https://onlinelibrary.wiley.com/doi/abs/10.1002/adhm.202102362)
 
 Yang Yang<sup>1</sup>, **Kaiqi Long<sup>1</sup>**, Yiqun Wang<sup>1</sup>, Lei Li, Jiayue Shi, Jican Liu, Lingxi Kong, Lin Yu, Jiandong Ding, Zhili Huang\*, Weiping Wang\*，Changyou Zhan\* &nbsp; *Advanced Healthcare Materials*, 2022, 11, 8, 2102362
 </div>
@@ -102,20 +102,20 @@ Yang Yang<sup>1</sup>, **Kaiqi Long<sup>1</sup>**, Yiqun Wang<sup>1</sup>, Lei L
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/JN2022.png' alt="fig" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[One-photon Red Light-triggered Disassembly of Small-molecule Nanoparticles for Drug Delivery](https://jnanobiotechnology.biomedcentral.com/articles/10.1186/s12951-021-01103-z)
+6. [One-photon Red Light-triggered Disassembly of Small-molecule Nanoparticles for Drug Delivery](https://jnanobiotechnology.biomedcentral.com/articles/10.1186/s12951-021-01103-z)
 
 **Kaiqi Long<sup>1</sup>**, Han Han<sup>1</sup>, Weirong Kang, Wen Lv, Lang Wang, Yufeng Wang, Liang Ge\*, Weiping Wang\* &nbsp; *Journal of Nanobiotechnology*, 2021, 19, 357
 </div>
 </div>
 
 <br>
-- [Photoenhanced cytosolic protein delivery based on a photocleavable group-modified dendrimer](https://pubs.rsc.org/en/Content/ArticleLanding/2021/NR/D1NR04430C) Yafei Li<sup>1</sup>, Yang Zhou<sup>1</sup>, **Kaiqi Long**, Yaming Zhang, Tianyi Wang, Weiping Wang\* &nbsp; *Nanoscale*, 2021, 13, 17784-17792  *(Highlighted on cover)*
+5. [Photoenhanced cytosolic protein delivery based on a photocleavable group-modified dendrimer](https://pubs.rsc.org/en/Content/ArticleLanding/2021/NR/D1NR04430C) Yafei Li<sup>1</sup>, Yang Zhou<sup>1</sup>, **Kaiqi Long**, Yaming Zhang, Tianyi Wang, Weiping Wang\* &nbsp; *Nanoscale*, 2021, 13, 17784-17792  *(Highlighted on cover)*
 <div class='paper-box'></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/AS2021.png' alt="fig" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-4- [Green light-triggered intraocular drug release for intravenous chemotherapy of retinoblastoma](https://onlinelibrary.wiley.com/doi/10.1002/advs.202101754)
+4. [Green light-triggered intraocular drug release for intravenous chemotherapy of retinoblastoma](https://onlinelibrary.wiley.com/doi/10.1002/advs.202101754)
 
 **Kaiqi Long<sup>1</sup>**, Yang Yang<sup>1</sup>, Wen Lv, Kuan Jiang, Yafei Li, Amy Cheuk Yin Lo, Wai Ching Lam, Changyou Zhan\*, Weiping Wang\* &nbsp; *Advanced Science*, 2021, 8, 20, 2101754 *(Highlighted on cover) (High downloaded paper in 2022)*
 </div>
@@ -124,7 +124,7 @@ Yang Yang<sup>1</sup>, **Kaiqi Long<sup>1</sup>**, Yiqun Wang<sup>1</sup>, Lei L
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/AHM2020.png' alt="fig" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-3- [A Red Light-Triggered Drug Release System Based on One-Photon Upconversion-Like Photolysis](https://onlinelibrary.wiley.com/doi/10.1002/adhm.202001118)
+3. [A Red Light-Triggered Drug Release System Based on One-Photon Upconversion-Like Photolysis](https://onlinelibrary.wiley.com/doi/10.1002/adhm.202001118)
 
 Wen Lv, **Kaiqi Long**, Yang Yang, Sijie Chen, Changyou Zhan and Weiping Wang\* &nbsp; *Advanced Healthcare Materials*, 2020, 9, 2001118 
 </div>
@@ -133,7 +133,7 @@ Wen Lv, **Kaiqi Long**, Yang Yang, Sijie Chen, Changyou Zhan and Weiping Wang\* 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/JMCB2020.png' alt="fig" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-2- [Self-assembly of trigonal building blocks into nanostructures: molecular design and biomedical applications](https://pubs.rsc.org/en/content/articlelanding/2020/tb/d0tb01128b#!divAbstract)
+2. [Self-assembly of trigonal building blocks into nanostructures: molecular design and biomedical applications](https://pubs.rsc.org/en/content/articlelanding/2020/tb/d0tb01128b#!divAbstract)
 
 **Kaiqi Long**, Yuwei Liu, Yafei Li and Weiping Wang\* &nbsp; *Journal of Materials Chemistry B*, 2020, 8, 6739-6752 *(invited review)*
 </div>
@@ -141,7 +141,7 @@ Wen Lv, **Kaiqi Long**, Yang Yang, Sijie Chen, Changyou Zhan and Weiping Wang\* 
 
 
 <br>
-1- [A Soluplus/Poloxamer 407-based self-nanoemulsifying drug delivery system for the weakly basic drug carvedilol to improve its bioavailability](https://www.sciencedirect.com/science/article/abs/pii/S1549963420300538) Han Han<sup>1</sup>, Yun Li<sup>1</sup>, Zhen Peng, **Kaiqi Long**, Chunli Zheng, Weiping Wang\*, Thomas J. Webster\*, Liang Ge\* &nbsp; *Nanomedicine: Nanotechnology, Biology and Medicine*, 2020, 27, 102199
+1. [A Soluplus/Poloxamer 407-based self-nanoemulsifying drug delivery system for the weakly basic drug carvedilol to improve its bioavailability](https://www.sciencedirect.com/science/article/abs/pii/S1549963420300538) Han Han<sup>1</sup>, Yun Li<sup>1</sup>, Zhen Peng, **Kaiqi Long**, Chunli Zheng, Weiping Wang\*, Thomas J. Webster\*, Liang Ge\* &nbsp; *Nanomedicine: Nanotechnology, Biology and Medicine*, 2020, 27, 102199
 <div class='paper-box'></div>
 
 
