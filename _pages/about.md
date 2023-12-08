@@ -40,9 +40,9 @@ For more details, please refer to my [CV](../assets/CV.pdf). (last updated: Dec 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/NC2023-500x300.png' alt="fig" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-15- [Near-infrared Light-Triggered Prodrug Photolysis by One-step Energy Transfer](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202301985)
+15- [Near-infrared Light-Triggered Prodrug Photolysis by One-step Energy Transfer](https://www.nature.com/articles/s41467-023-43805-y)
 
-**Kaiqi Long**, Wen Lv, Zihan Wang, Yaming Zhang, Kang Chen, Yichi Zhang, Weiping Wang\* &nbsp;
+**Kaiqi Long**, Wen Lv, Zihan Wang, Yaming Zhang, Kang Chen, Ni Fan, Feiyang Li, Yichi Zhang, Weiping Wang\* &nbsp;
 *Nature Communications*, 2023, Accepted
 
 </div>
